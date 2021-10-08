@@ -1,0 +1,15 @@
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.csproj.CoreCompileInputs.cache
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.AssemblyInfoInputs.cache
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.AssemblyInfo.cs
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.RazorAssemblyInfo.cache
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.RazorAssemblyInfo.cs
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\bin\Debug\netcoreapp2.1\LibraryCore.deps.json
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\bin\Debug\netcoreapp2.1\LibraryCore.runtimeconfig.json
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\bin\Debug\netcoreapp2.1\LibraryCore.runtimeconfig.dev.json
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\bin\Debug\netcoreapp2.1\LibraryCore.dll
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\bin\Debug\netcoreapp2.1\LibraryCore.pdb
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.RazorTargetAssemblyInfo.cache
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.dll
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.pdb
+C:\Codigo\API\Curso P\Library\LibraryCore\LibraryCore\obj\Debug\netcoreapp2.1\LibraryCore.csprojAssemblyReference.cache
